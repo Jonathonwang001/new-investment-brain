@@ -1,12 +1,12 @@
-# 🧠 new-investment-brain v7.3 — 泛化第一性原理版
+# 🧠 new-investment-brain v7.6 — COMPASS+Segment Discovery版
 
-> **🔥🧊 v7.3 泛化升级**: 不再只盯着AI芯片！Serenity方法论正式泛化为**全行业通用Alpha发现系统**。
+> **🔥🧊 v7.6 COMPASS升级**: 不再只盯着AI芯片！Serenity方法论正式泛化为**全行业通用Alpha发现系统**。
 > 双地形狩猎: 🔥热门行业深度钻探(BOM拆至T-4层) + 🧊冷门行业广度扫描(GIVG全盲扫描)
 > 同一套方法论，任何产业，任何链条，找被全世界忽视的"螺丝钉"。
 >
 > **🌐 v7.1 突破（保留）**: GIVG全球三维信息真空扫描 — 🟠CIVG(中文散户) + 🔵EIVG(英文散户/Reddit/Twitter) + 🔴PIVG(华尔街专业/Bloomberg/分析师/13F)
 
-[![Version](https://img.shields.io/badge/version-7.2.0-blue.svg)](https://github.com/Jonathonwang001/new-investment-brain)
+[![Version](https://img.shields.io/badge/version-7.6.0-blue.svg)](https://github.com/Jonathonwang001/new-investment-brain)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10+-yellow.svg)](https://python.org)
 
