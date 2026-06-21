@@ -1,0 +1,261 @@
+/* ==========================================================================
+   new-investment-brain v5.0 报告样式
+   v5.0 新增: 产业链瓶颈全景区块、双技能联动标注
+   ========================================================================== */
+
+/* === 基础排版 === */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background: #ffffff;
+  color: #1a1a2e;
+  line-height: 1.70;
+  font-size: 15px;
+}
+
+/* === 页头 === */
+.header {
+  border-bottom: 3px solid #1a1a2e;
+  padding: 20px 0 16px 0;
+  margin-bottom: 24px;
+}
+.header h1 {
+  margin: 0 0 6px 0;
+  font-size: 22px;
+  font-weight: 700;
+  color: #1a1a2e;
+}
+.header .meta {
+  font-size: 13px;
+  color: #666666;
+}
+
+/* === 卡片容器 === */
+.card {
+  padding: 20px 24px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.10);
+  border: 1px solid #e0e0e0;
+  background: #ffffff;
+}
+
+.card h2 {
+  margin-top: 0;
+  font-size: 17px;
+  font-weight: 700;
+  color: #1a1a2e;
+  border-left: 4px solid #1a1a2e;
+  padding-left: 10px;
+}
+
+/* === v5.0 新增: 产业链全景区块 === */
+.chain-section {
+  background: #f8f9fb;
+  border-left: 4px solid #0066cc;
+}
+.chain-section h2 {
+  border-left: none;
+  color: #0066cc;
+}
+.bom-tree {
+  font-family: "SF Mono", Menlo, Monaco, Consolas, monospace;
+  font-size: 13px;
+  line-height: 1.8;
+  background: #f0f4f8;
+  padding: 12px 16px;
+  border-radius: 6px;
+  overflow-x: auto;
+}
+.node-tier-0 { color: #c0392b; font-weight: 700; }  /* T0 绝对瓶颈 */
+.node-tier-1 { color: #e67e22; font-weight: 600; }  /* T1 核心瓶颈 */
+.node-tier-2 { color: #f1c40f; font-weight: 600; }  /* T2 显著瓶颈 */
+.node-standard { color: #7f8c8d; }                    /* 标准化 */
+
+/* === 五档推荐色块(v4.0 继承) === */
+.rec-extreme {
+  color: #c62828;
+  background: #ffebee;
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-weight: 700;
+  display: inline-block;
+  font-size: 14px;
+}
+.rec-strong {
+  color: #e65100;
+  background: #fff3e0;
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-weight: 700;
+  display: inline-block;
+  font-size: 14px;
+}
+.rec-moderate {
+  color: #f9a825;
+  background: #fffde7;
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-weight: 700;
+  display: inline-block;
+  font-size: 14px;
+}
+.rec-weak {
+  color: #1565c0;
+  background: #e3f2fd;
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-weight: 700;
+  display: inline-block;
+  font-size: 14px;
+}
+.rec-avoid {
+  color: #616161;
+  background: #fafafa;
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-weight: 700;
+  display: inline-block;
+  font-size: 14px;
+}
+
+/* === 涨跌着色 === */
+.pos { color: #c00000; font-weight: 600; }   /* 红涨 */
+.neg { color: #006600; font-weight: 600; }   /* 绿跌 */
+
+/* === 时间戳 === */
+.time-stamp {
+  color: #0066cc;
+  font-weight: 500;
+  white-space: nowrap;
+  font-size: 13px;
+}
+
+/* === 来源标注 === */
+.source-tag {
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 10px;
+  font-weight: 600;
+  display: inline-block;
+  margin-right: 6px;
+}
+.source-driller { background: #e8f5e9; color: #2e7d32; }  /* industry-deep-driller */
+.source-brain   { background: #e3f2fd; color: #1565c0; }  /* investment-brain */
+.source-unknown  { background: #fff3e0; color: #e65100; }  /* 待验证 */
+.source-speculate{ background: #fce4ec; color: #c62828; }  /* 推测 */
+
+/* === 摘要框 === */
+.summary {
+  background: #f8f9fb;
+  padding: 12px 15px;
+  border-radius: 8px;
+  margin-top: 10px;
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+/* === 风险框 === */
+.risk-box {
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 15px;
+  margin-top: 15px;
+  background: #fff;
+}
+.risk-red   { border-left: 4px solid #c62828; }
+.risk-orange{ border-left: 4px solid #e65100; }
+.risk-yellow { border-left: 4px solid #f9a825; }
+
+/* === 投资判断 === */
+.judge {
+  background: #f8f9fb;
+  padding: 15px;
+  border-radius: 8px;
+  line-height: 1.8;
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+/* === 表格 === */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 12px 0;
+  font-size: 14px;
+}
+th {
+  background: #f0f0f0;
+  padding: 8px 10px;
+  text-align: left;
+  font-weight: 700;
+  border-bottom: 2px solid #d0d0d0;
+}
+td {
+  padding: 7px 10px;
+  border-bottom: 1px solid #eeeeee;
+  vertical-align: top;
+}
+tr:hover { background: #f8f9fb; }
+
+/* === 页脚 === */
+.footer {
+  text-align: center;
+  font-size: 12px;
+  color: #666666;
+  margin-top: 30px;
+  padding-top: 15px;
+  border-top: 1px solid #cccccc;
+}
+
+/* === v5.0 新增: 双技能联动标注 === */
+.pipeline-label {
+  font-size: 11px;
+  color: #999999;
+  margin-bottom: 4px;
+}
+.pipeline-label span {
+  background: #f0f0f0;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-weight: 600;
+}
+
+/* === 代码块 === */
+pre {
+  background: #f4f4f4;
+  padding: 12px 16px;
+  border-radius: 6px;
+  overflow-x: auto;
+  font-size: 13px;
+  line-height: 1.6;
+}
+code {
+  font-family: "SF Mono", Menlo, Monaco, Consolas, monospace;
+  font-size: 13px;
+}
+
+/* === 分隔线 === */
+hr {
+  border: none;
+  border-top: 1px solid #e0e0e0;
+  margin: 20px 0;
+}
+
+/* === 列表 === */
+ul, ol {
+  padding-left: 20px;
+}
+li {
+  margin-bottom: 4px;
+}
+
+/* === 链接 === */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
