@@ -1,16 +1,16 @@
 ---
 name: new-investment-brain
-title: Investment Brain New - 六大脑+三种时刻+12人委员会+双技能联动 融合决策系统 v7.3
-version: v7.3.0 GIVG 2D矩阵版(2026-06-21)
-description: 融合原六大脑程序化框架 + SOIC价值链/护城河 + financial-analysis双轨财务 + Serenity Chokepoint策略 v7.3(🔴华尔街盲点层+🟠中文散户真空+🌐全球三维信息真空GIVG+💰估值真空VG 2D矩阵+🧭CITA跨界发现·全行业通用) + 三种时刻(AJI🍶/RPI🍓/GATE🛡️) + 六大脑深度分析 + 12人投资委员会 + 📊 Phase 0 Data Canvas + 🟢 ESG Bonus + 🆕 industry-deep-driller双技能联动 + 🆕 六大脑自进化系统 + 🆕 全球七地市场 + 🆕 双地形狩猎框架(🔥热门深度+🧊冷门广度) + 防幻觉验证 + 持久化知识管理。输出五档分级推荐。
+title: Investment Brain New - 六大脑+三种时刻+12人委员会+双技能联动 融合决策系统 v7.6
+version: v7.6.0 COMPASS+Segment Discovery版(2026-06-21)
+description: 融合原六大脑程序化框架 + SOIC价值链/护城河 + financial-analysis双轨财务 + Serenity Chokepoint策略 v7.6(🧭COMPASS四柱20维全体系统+🆕Segment Discovery业务分拆发现层+🛡️QG盈利/诚信过滤+💰GIVG 2D矩阵+🧭CITA跨界发现·全行业通用) + 三种时刻(AJI🍶/RPI🍓/GATE🛡️) + 六大脑深度分析 + 12人投资委员会 + 📊 Phase 0 Data Canvas + 🟢 ESG Bonus + 🆕 industry-deep-driller双技能联动 + 🆕 六大脑自进化系统 + 🆕 全球七地市场 + 🆕 双地形狩猎框架(🔥热门深度+🧊冷门广度) + 防幻觉验证 + 持久化知识管理。输出五档分级推荐。
 source: fusion
 created: 2026-05-28
 updated: 2026-06-21
-tags: [investment-brain, six-agents, chokepoint, serenity, wall-street-blind-spot, global-information-vacuum, valuation-gap, VG, GIVG-2D, CIVG, EIVG, PIVG, CITA, cross-industry-technology-adjacency, MSC, UPM, TEM, ATC, FPC, GICS-arbitrage, soic, financial-analysis, moat, three-moments, AJI, RPI, GATE, investment, methodology, permanent, v7.3, deep-analysis, investment-committee, industry-deep-driller, self-evolving, global-markets, data-canvas, 12-committee, universal-first-principles, dual-terrain, hot-depth, cold-breadth, industry-agnostic]
+tags: [investment-brain, six-agents, chokepoint, serenity, wall-street-blind-spot, global-information-vacuum, valuation-gap, VG, GIVG-2D, CIVG, EIVG, PIVG, CITA, cross-industry-technology-adjacency, MSC, UPM, TEM, ATC, FPC, GICS-arbitrage, soic, financial-analysis, moat, three-moments, AJI, RPI, GATE, investment, methodology, permanent, v7.6, deep-analysis, investment-committee, industry-deep-driller, self-evolving, global-markets, data-canvas, 12-committee, universal-first-principles, dual-terrain, hot-depth, cold-breadth, industry-agnostic, COMPASS, segment-discovery, hidden-champion, bottleneck-economics, quality-gate, QG, minimum-score-principle]
 status: current
 ---
 
-# Investment Brain New — 六大脑+三种时刻+12人委员会+双技能联动 融合决策系统 v7.3
+# Investment Brain New — 六大脑+三种时刻+12人委员会+双技能联动 融合决策系统 v7.6
 
 > **v7.3 💰 GIVG 2D矩阵升级 (2026-06-21)**: 信息真空(IG)只是一半——**估值真空(VG)是另一半**。
 > 论坛沉默≠没起飞（可能是贵了没人讨论）；论坛火爆≠饱和（可能是正在被发现）。
@@ -30,7 +30,7 @@ status: current
 > **CITA独家发现**: Noritake(5331.T) 餐具→晶圆研磨轮 - TOTO式完美跨界剧本
 
 > **Skill 位置**: `~/.qclaw/skills/new-investment-brain/`
-> **版本**: V7.3 GIVG 2D矩阵版
+> **版本**: V7.6 COMPASS+Segment Discovery版
 > **状态**: 活跃
 > **前置技能**: universal-agent-skill(Agent编排+防幻觉验证), fulltime-knowledge-butler(持久化知识), industry-deep-driller v2.0(产业链瓶颈发现), ai-hedge-fund v3.0.1(12人委员会原型)
 > **联动技能**: self-improving, mem0, openclaw-project-iteration, ragflow-skill
@@ -47,7 +47,174 @@ status: current
 
 ---
 
-## 🏗️ 🚀 v7.3 核心创新 - 泛化第一性原理：全行业 Alpha 发现
+
+
+## 🧭 v7.6 COMPASS — 四柱20维综合Alpha评分体系（当前版本）
+
+> **v7.6 核心突破**: 
+> 1. **Segment Discovery Layer** — 味之素ABF占营收5%但利润20%+, 分部毛利率40%(合并仅15%)。不看分部=把半导体材料引擎当食品公司排除。
+> 2. **卡脖子经济学** — 100%垄断但TAM仅$50M=学术上有趣, 投资上无用。TAM决定Alpha上限。
+> 3. **COMPASS四柱20维** — Foundation(能不能活)×Position(在哪)×Discovery(藏多深)×Timing(什么时候动手)
+> 4. **短板决定论** — 一只脚踩地雷, 另一只在黄金上也没用。min(Pillar内各维)决定Pillar分数。
+
+### 架构全景
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                   🧭 COMPASS v7.6                                │
+│            Complete Multi-Pillar Alpha Scoring System             │
+│                    "短板决定论"                                   │
+├───────────────┬───────────────┬───────────────┬──────────────────┤
+│ 🏛️ FOUNDATION  │ 🎯 POSITION    │ 🔍 DISCOVERY  │ ⏰ TIMING        │
+│  能不能活?     │  在哪?         │  藏多深?       │  什么时候动手?    │
+│  (5维×0.30)   │  (7维×0.25)   │  (5维×0.25)   │  (5维×0.20)     │
+├───────────────┼───────────────┼───────────────┼──────────────────┤
+│ QG1 盈利能力   │ POS1 链位      │ DIS1 IG        │ TIM1 财报日历     │
+│ QG2 资产负债   │ POS2 护城河    │ DIS2 VG        │ TIM2 技术面       │
+│ QG3 现金流     │ POS3 定价权    │ DIS3 共识差     │ TIM3 宏观环境     │
+│ QG4 治理诚信   │ POS4 市场格局   │ DIS4 叙事差     │ TIM4 内部人        │
+│ QG5 流动性     │ POS5 颠覆风险   │ DIS5 情绪极端    │ TIM5 事件催化剂    │
+│               │ POS6 卡脖子TAM🆕 │               │                  │
+│               │ POS7 需求动能🆕   │               │                  │
+└───────────────┴───────────────┴───────────────┴──────────────────┘
+                              │
+                    ┌─────────┴─────────┐
+                    │  STEP 0: SEGMENT  │ 🆕
+                    │  DISCOVERY LAYER  │
+                    │  业务分拆发现层     │
+                    └─────────┬─────────┘
+                              │
+        ┌─────────────────────┼─────────────────────┐
+        │                     │                     │
+   ┌────▼────┐          ┌────▼────┐          ┌────▼────┐
+   │ SEG1    │          │ SEG2    │          │ SEG3    │
+   │ 业务分拆 │          │卡脖子经济│          │隐性冠军  │
+   │营收%利润%│          │TAM需求量│          │ 检测    │
+   │分部毛利  │          │供应集中度│          │豁免QG1  │
+   └─────────┘          └─────────┘          └─────────┘
+```
+
+### STEP 0: Segment Discovery Layer（业务分拆发现层）🆕
+
+> **为什么需要这一层?** 味之素(2802.T)合并报表毛利率15%, 如果不分拆, QG1直接不通过 → 错过了ABF(毛利率40%/全球90%垄断/$2B TAM)。
+
+#### SEG1: 业务分拆 (Segment Decomposition)
+
+| 问题 | 数据源 | 味之素案例 |
+|------|--------|-----------|
+| 卡脖子产品占营收%? | 分部报告/Segment data | ABF ~5% (微小) |
+| 卡脖子产品占利润%? | Segment operating profit | ~20% (隐性引擎!) |
+| 卡脖子产品自身毛利率? | 分部财报 | ~40% (vs 合并15%) |
+| 卡脖子产品自身增速(CAGR)? | 历史分部数据 | ~15% |
+
+#### SEG2: 卡脖子经济学 (Bottleneck Economics)
+
+| 维度 | 评分标准 | 权重 |
+|------|---------|------|
+| 全球TAM | <$100M=-0.3 / $100M-1B=0 / $1-5B=+0.1 / $5-20B=+0.2 / >$20B=+0.3 | 0.40 |
+| 年需求量规模 | 绝对值(吨/片/台) × 增速 | 0.25 |
+| 供应集中度 | CR1>70%=0.3 / CR3>70%=0.2 / 分散=0 | 0.20 |
+| 不可替代性 | 无替代=0.3 / 替代需3年+=0.2 / 已有替代=0 | 0.15 |
+
+> **BLOCK RULE**: TAM < $100M → 即使100%垄断, 整个市场太小, 投资价值为零 → **直接排除**
+
+#### SEG3: 隐性冠军检测 (Hidden Champion Detection)
+
+```
+IF (SEG1.利润占比 > 10%) AND (SEG1.分部毛利 > 25%) AND (SEG2.供应集中度 > 0.2):
+    HIDDEN_CHAMPION = True  ← QG1用分部财务, 豁免合并
+ELSE:
+    HIDDEN_CHAMPION = False  ← QG1正常用合并财务
+```
+
+| 案例 | 合并毛利 | 分部毛利 | SEG3结论 | QG1处理 |
+|------|---------|---------|---------|---------|
+| 味之素(2802.T) | 15% | ABF 40% | ✅ 隐性冠军 | 分部豁免 |
+| Noritake(5331.T) | 20% | 研磨轮 35% | ✅ 隐性冠军 | 分部豁免 |
+| TOTO(5332.T) | 25% | 静电卡盘 40% | ✅ 隐性冠军 | 分部豁免 |
+| KULR | 10.67% | 无分部 | ❌ | 不豁免, QG1正常不通过 |
+| PLAB | 33.77% | 单一业务 | ❌ | 不豁免, 但QG1本身OK |
+
+---
+
+### 🏛️ Pillar 1: FOUNDATION (能不能活? ×0.30)
+
+> **任何一维FAIL且不具备隐性冠军豁免 → 整个公司排除。** KULR死在QG1, PLAB死在QG4。
+
+| # | 维度 | 阈值 | 隐性冠军豁免? |
+|---|------|------|-------------|
+| QG1 | **盈利能力** | 毛利率>25% + 营业利润>0 | ✅ 可用分部财务 |
+| QG2 | **资产负债** | NetDebt/EBITDA<4x + 流动比率>1 | ❌ 合并层面 |
+| QG3 | **现金流质量** | FCF/净利润>0.7 | 分部FCF若可分离则用分部 |
+| QG4 | **治理诚信** | 无欺诈调查 + 内幕净增持 | ❌ 诚信不可分拆 |
+| QG5 | **流动性** | 市值>$500M + 日均成交量>$2M | ❌ 合并层面 |
+
+### 🎯 Pillar 2: POSITION (在哪? ×0.25)
+
+| # | 维度 | 评分逻辑 |
+|---|------|---------|
+| POS1 | **供应链位置** | T-3/T-4原材料层=最高分 / T-0终端=最低分 |
+| POS2 | **竞争护城河** | 技术领先>5年=1.0 / 1-3年=0.5 / 无=0 |
+| POS3 | **定价权** | 毛利率稳定性 × 客户分散度 |
+| POS4 | **市场格局** | CR3>70%=垄断(好) / CR3<30%=碎片(差) |
+| POS5 | **技术颠覆风险** | 无替代路线=1.0 / NIL替代光罩=PLAB的隐藏风险(0.3) |
+| **POS6 🆕** | **卡脖子TAM** | <$100M=-0.3 / $100M-1B=0 / $1-5B=+0.1 / $5-20B=+0.2 / >$20B=+0.3 |
+| **POS7 🆕** | **需求动能** | 需求量CAGR×产能扩张×下游CAPEX → 0-1 |
+
+### 🔍 Pillar 3: DISCOVERY (藏多深? ×0.25)
+
+> v7.3 GIVG 2D + 三个新维度
+
+| # | 维度 | 评分逻辑 |
+|---|------|---------|
+| DIS1 | **信息真空 IG** | CIVG(中文)×EIVG(英文散户)×PIVG(专业) |
+| DIS2 | **估值真空 VG** | PE分位×EV/EBITDA×价格讨论背离×量能×空头×机构×分析师 |
+| **DIS3 🆕** | **共识差 CG** | 分析师分歧大=高分 / 一致看多=低分 / 无覆盖=极值 |
+| **DIS4 🆕** | **叙事差 NG** | 有未被定价的催化剂=高分 / 故事已透支=低分 |
+| **DIS5 🆕** | **情绪极端 SG** | RSI<30恐慌=0.9 / RSI>70贪婪=0.1 |
+
+### ⏰ Pillar 4: TIMING (什么时候动手? ×0.20)
+
+| # | 维度 | 评分 | PLAB踩雷 |
+|---|------|------|---------|
+| TIM1 | **财报日历** | ER日=0(禁止!) / ER后3天=高分 | ❌ 5/28=Q2暴雷日 |
+| TIM2 | **技术面** | MA多头=1.0 / 破位=0 | ❌ 放量下跌 |
+| TIM3 | **宏观环境** | Risk-On=1.0 / Risk-Off=0.3 | ⚠️ FOMC后小盘抽血 |
+| TIM4 | **内部人行为** | 集群增持=1.0 / 集体减持=0 | ❓ |
+| TIM5 | **事件催化剂** | 产品发布/合同/政策利好 | — |
+
+---
+
+### Alpha 公式（短板决定论）
+
+```
+STEP 0: SEGMENT DISCOVERY
+  SEG3 → HIDDEN_CHAMPION? (隐性冠军豁免QG1)
+
+STEP 1: PILLAR SCORES (每Pillar内取min = 短板决定)
+  Pillar_F = min(QG1, QG2, QG3, QG4, QG5)
+  Pillar_P = min(POS1, POS2, POS3, POS4, POS5, POS6, POS7)
+  Pillar_D = min(DIS1, DIS2, DIS3, DIS4, DIS5)
+  Pillar_T = min(TIM1, TIM2, TIM3, TIM4, TIM5)
+
+STEP 2: BLOCK CHECKS
+  IF Pillar_F < 0.4 AND NOT HIDDEN_CHAMPION → BLOCKED (基础不牢)
+  IF Pillar_T < 0.3 → BLOCKED (时机不对)
+  IF SEG2_TAM < $100M → BLOCKED (市场太小)
+
+STEP 3: FINAL ALPHA
+  Alpha = Pillar_F×0.30 + Pillar_P×0.25 + Pillar_D×0.25 + Pillar_T×0.20
+```
+
+### 三案例验证
+
+| 案例 | 旧(犯错) | v7.6(修正后) | 说明 |
+|------|---------|-------------|------|
+| **味之素** 2802.T | BLOCKED(QG1合并毛利15%) | ✅ Alpha ~0.62 | SEG3→分部QG1 40%+POS6 TAM$2B |
+| **KULR** | 买入(毛利率10.67%!) | ❌ BLOCKED | SEG3=FALSE, QG1不通过, 无隐藏引擎 |
+| **PLAB** | 买入(5/28暴雷日!) | ❌ BLOCKED | QG4欺诈调查+TIM1=0, 诚信+时机双零 |
+
+## 🏗️ 🚀 v7.3 核心创新 - 泛化第一性原理（向下兼容）：全行业 Alpha 发现
 
 ### 🎯 双地形狩猎框架（v7.2→v7.3 保留）
 
