@@ -1,39 +1,43 @@
 ---
 name: new-investment-brain
-title: Investment Brain New - 六大脑+三种时刻+12人委员会+双技能联动 融合决策系统 v7.6
-version: v7.6.0 COMPASS+Segment Discovery版(2026-06-21)
-description: 融合原六大脑程序化框架 + SOIC价值链/护城河 + financial-analysis双轨财务 + Serenity Chokepoint策略 v7.6(🧭COMPASS四柱20维全体系统+🆕Segment Discovery业务分拆发现层+🛡️QG盈利/诚信过滤+💰GIVG 2D矩阵+🧭CITA跨界发现·全行业通用) + 三种时刻(AJI🍶/RPI🍓/GATE🛡️) + 六大脑深度分析 + 12人投资委员会 + 📊 Phase 0 Data Canvas + 🟢 ESG Bonus + 🆕 industry-deep-driller双技能联动 + 🆕 六大脑自进化系统 + 🆕 全球七地市场 + 🆕 双地形狩猎框架(🔥热门深度+🧊冷门广度) + 防幻觉验证 + 持久化知识管理。输出五档分级推荐。
+title: Investment Brain New - 六大脑+三种时刻+12人委员会+双技能联动 融合决策系统 v7.7
+version: v7.7.0 GIVG生命周期+Watchlist+🔄耗竭再发现闭环版(2026-07-16)
+description: 融合原六大脑程序化框架 + SOIC价值链/护城河 + financial-analysis双轨财务 + Serenity Chokepoint策略 v7.7(🧭COMPASS四柱21维+🆕DIS6生命周期维度+🔄三阶段演变+📋Watchlist再发现闭环+💰GIVG 2D+Time矩阵+🧭CITA跨界发现·全行业通用) + 三种时刻(AJI🍶/RPI🍓/GATE🛡️) + 六大脑深度分析(🆕估值脑/风险脑新增生命周期诊断) + 12人投资委员会 + 📊 Phase 0 Data Canvas + 🟢 ESG Bonus + 🆕 industry-deep-driller双技能联动 + 🆕 六大脑自进化系统 + 🆕 全球七地市场 + 🆕 双地形狩猎框架(🔥热门深度+🧊冷门广度) + 防幻觉验证 + 持久化知识管理。输出七态(🟢强烈买入/🟢买入/🟡持有/🟠减持/🔴强烈卖出/📋Watchlist/🔄再进入)。
 source: fusion
 created: 2026-05-28
-updated: 2026-06-21
-tags: [investment-brain, six-agents, chokepoint, serenity, wall-street-blind-spot, global-information-vacuum, valuation-gap, VG, GIVG-2D, CIVG, EIVG, PIVG, CITA, cross-industry-technology-adjacency, MSC, UPM, TEM, ATC, FPC, GICS-arbitrage, soic, financial-analysis, moat, three-moments, AJI, RPI, GATE, investment, methodology, permanent, v7.6, deep-analysis, investment-committee, industry-deep-driller, self-evolving, global-markets, data-canvas, 12-committee, universal-first-principles, dual-terrain, hot-depth, cold-breadth, industry-agnostic, COMPASS, segment-discovery, hidden-champion, bottleneck-economics, quality-gate, QG, minimum-score-principle]
+updated: 2026-07-16
+tags: [investment-brain, six-agents, chokepoint, serenity, wall-street-blind-spot, global-information-vacuum, valuation-gap, VG, GIVG-2D, GIVG-3D-time, lifecycle, watchlist, re-entry, exhaustion, 利好出尽, 替代扫描, DIS6, CIVG, EIVG, PIVG, CITA, cross-industry-technology-adjacency, MSC, UPM, TEM, ATC, FPC, GICS-arbitrage, soic, financial-analysis, moat, three-moments, AJI, RPI, GATE, investment, methodology, permanent, v7.7, deep-analysis, investment-committee, industry-deep-driller, self-evolving, global-markets, data-canvas, 12-committee, universal-first-principles, dual-terrain, hot-depth, cold-breadth, industry-agnostic, COMPASS, segment-discovery, hidden-champion, bottleneck-economics, quality-gate, QG, minimum-score-principle]
 status: current
 ---
 
-# Investment Brain New — 六大脑+三种时刻+12人委员会+双技能联动 融合决策系统 v7.6
+# Investment Brain New — 六大脑+三种时刻+12人委员会+双技能联动 融合决策系统 v7.7
 
+> **🔄 v7.7 GIVG生命周期+Watchlist升级 (2026-07-16)**: **"卡脖子 ≠ 值得现在买。"** — 主人Jonathan关键洞察。
+> 信息真空不是静态的——它从🟢发现期→🟡共识期→🔴耗竭期动态演变。
+> 三年前Ajinomoto ABF是全球最佳Alpha(I=0.9 VG=0.85 🏆象限1)，如今可能是共识标的(IG=0.15 VG=0.18 🗑️象限4)。
+> **同标的，同故事，不同生命阶段 → 不同投资结论。**
+> 📋 进入🔴耗竭期的标的不被丢弃，转入Watchlist——等市场再次遗忘+股价回调到低估区=🔄再发现黄金买点。
+>
 > **v7.3 💰 GIVG 2D矩阵升级 (2026-06-21)**: 信息真空(IG)只是一半——**估值真空(VG)是另一半**。
 > 论坛沉默≠没起飞（可能是贵了没人讨论）；论坛火爆≠饱和（可能是正在被发现）。
-> **双向因果**: 价格↑→讨论↑ / 讨论↑→价格↑ → 必须同时看"谁在讨论"+"价格有没有反映"。
-> 🏆 真正的极值Alpha = IG(被全世界遗忘) × VG(价格还没起飞) = 未被发现且被严重低估。
 >
-> 🔵 任何行业的供应链瓶颈 + 🧭 任何跨行业的技术跨界 + 🌐 全球三维信息真空 + 💰 估值真空 = 极值Alpha
-> **🔥 热门行业有未被发掘的深层标的**（如AI芯片里的环氧树脂） + **🧊 冷门行业有被遗忘的隐形冠军**（如某个全球垄断但无人关注的材料）
+> 🔵 任何行业的供应链瓶颈 + 🧭 任何跨行业的技术跨界 + 🌐 全球三维信息真空 + 💰 估值真空 + 🔄 生命周期阶段 = 极值Alpha
+> **🔥 热门行业有未被发掘的深层标的** + **🧊 冷门行业有被遗忘的隐形冠军** + **📋 过往明星有被再次遗忘的二轮机会**
 >
-> **范式突破**: 从"AI芯片→BOM拆解"到"任意终端产品→BOM拆解→卡脖子" + 从"找AI跨界标的"到"找任意行业跨界标的"
-> 
-> 真正的Serenity精神：**在任何行业的"蛇肚子"里找"老鼠"，而不是只盯着最粗的那条蛇。**
+> 真正的Serenity精神：**在任何行业的"蛇肚子"里找"老鼠"，同时知道什么时候蛇肚子里的老鼠已经被所有人发现了——去找下一条蛇。**
 >
 > **CITA五大跨界模式**: 🧪MSC材料科学跨界 | 🔧UPM精密制造跨界 | 🌡️TEM热能流体跨界 | 💧FPC流体纯化跨界 | 📐ATC分析检测跨界
 >
 > **已发现共识标的**: Stella Chemifa(4109.T)/Organo(6368.T)/Techno Quartz(5217.T) - 纵向+CITA双引擎共识=最高置信度
 > **CITA独家发现**: Noritake(5331.T) 餐具→晶圆研磨轮 - TOTO式完美跨界剧本
+> **📋 Watchlist候选**: Ajinomoto(2802.T) — ABF故事已共识化,等待IG≥0.5+VG≥0.6重新触发
 
 > **Skill 位置**: `~/.qclaw/skills/new-investment-brain/`
-> **版本**: V7.6 COMPASS+Segment Discovery版
+> **版本**: V7.7 GIVG生命周期+Watchlist+🔄耗竭再发现闭环版
 > **状态**: 活跃
 > **前置技能**: universal-agent-skill(Agent编排+防幻觉验证), fulltime-knowledge-butler(持久化知识), industry-deep-driller v2.0(产业链瓶颈发现), ai-hedge-fund v3.0.1(12人委员会原型)
 > **联动技能**: self-improving, mem0, openclaw-project-iteration, ragflow-skill
+> **SPEC对齐**: `standards/specs/weekend-review-spec-v4.md` §3A — Chokepoint GIVG生命周期追踪框架
 
 ---
 
@@ -306,7 +310,7 @@ v7.0: 纵向下钻 + CITA横向跨界 + 散户真空
 │                           ▼                                          │
 │  ┌───────────────────────────────────────────────────┐              │
 │  │     六大脑深度分析 → 12人委员会投票                  │              │
-│  │     PortfolioManager 终审 → 五档分级推荐             │              │
+│  │     PortfolioManager 终审 → 七态分级推荐(v7.7)        │              │
 │  │     + 🔴长期仓位(3-5年) + 🟠催化仓位(6-18月)        │              │
 │  └───────────────────────────────────────────────────┘              │
 └──────────────────────────────────────────────────────────────────────┘
@@ -344,7 +348,7 @@ v7.0: 纵向下钻 + CITA横向跨界 + 散户真空
 ```
 请用 new-investment-brain v7.3 分析 {TICKER}
 ```
-→ 📊 Phase 0 Data Canvas → 六大脑并发 + 12人委员会并发 → 五档推荐 + 🟢 ESG Bonus
+→ 📊 Phase 0 Data Canvas → 六大脑并发(🆕生命周期诊断) + 12人委员会并发 → 七态推荐(含📋Watchlist) + 🟢 ESG Bonus
 
 ### ⚡ 轻量模式：快速评估
 
@@ -375,8 +379,41 @@ v7.0: 纵向下钻 + CITA横向跨界 + 散户真空
 ### 第四层:风险与安全边际
 → 参见 `03_PORTFOLIO_CONVEXITY.md`
 
-### 第五层:六大脑深度分析(逐标的·并发)
+### 第五层:六大脑深度分析(逐标的·并发) 🆕 v7.7 生命周期诊断
 → 参见 `07_SIX_BRAIN_DEEP_ANALYSIS.md`
+
+> **v7.7 升级**: 估值脑(Brain 3)和风险脑(Brain 5)新增生命周期诊断字段
+
+#### 估值脑 (Brain 3) 🆕 新增字段
+```
+┌─────────────────────────────────────┐
+│ 🆕 生命周期阶段:  [🟢发现期/🟡共识期/🔴耗竭期] │
+│ 🆕 IG趋势:        [上升/稳定/下降]          │
+│    └─ 近3月IG变化: 0.85→0.45 ⚠️           │
+│ 🆕 VG趋势:        [上升/稳定/下降]          │
+│    └─ 近3月VG变化: 0.80→0.30 ⚠️           │
+│ 🆕 机构覆盖变化:   [+3家/季→共识加速]       │
+│ 🆕 券商一致度:     [85%买入=⚠️反向指标]     │
+│ 🆕 利好出尽信号:   [2/6条⚠️]                │
+│ → 综合结论: [维持BUY/降级至REDUCE/转入📋Watchlist] │
+└─────────────────────────────────────┘
+```
+
+#### 风险脑 (Brain 5) 🆕 新增字段
+```
+┌─────────────────────────────────────┐
+│ 🆕 信息耗竭风险:  [高/中/低]               │
+│    └─ IG<0.3→利好出尽风险高              │
+│ 🆕 估值透支风险:  [高/中/低]               │
+│    └─ PE>历史90%分位→透支风险高          │
+│ 🆕 替代标的存在:  [扫描中/已找到/未扫描]    │
+│    └─ 例: ××× 同链上游BOM替代品          │
+│ 🆕 Watchlist回归条件:                     │
+│    └─ 条件1: IG≥0.5 (市场重新遗忘)        │
+│    └─ 条件2: VG≥0.6 (股价回归低估)        │
+│    └─ 条件3: 新催化事件 (产品/政策/并购)   │
+└─────────────────────────────────────┘
+```
 
 ### 第六层:12人投资委员会投票(逐标的·并发 + 强制引用Data Canvas)
 → 参见 `08_INVESTMENT_COMMITTEE.md`
@@ -400,7 +437,7 @@ v7.0: 纵向下钻 + CITA横向跨界 + 散户真空
 | **`12_V7_CROSS_SCORING.md`** | **🆕 三维交叉评分协议** | **v7.2 新增（v7.3 2D矩阵升级）** |
 | `05_SERENITY_ALPHA_MODEL.md` | Serenity第一性发现模型 | 🆕 v7.0三维发现 |
 | `06_THREE_MOMENTS_FRAMEWORK.md` | 三种时刻框架 | 不变 |
-| `07_SIX_BRAIN_DEEP_ANALYSIS.md` | 六大脑深度分析规范 | 不变 |
+| `07_SIX_BRAIN_DEEP_ANALYSIS.md` | 六大脑深度分析规范 | 🆕 v7.7: 估值脑/风险脑新增生命周期诊断 |
 | `08_INVESTMENT_COMMITTEE.md` | 12人投资委员会 + Data Canvas规范 | 🆕 v5.1 12人 |
 | **`09_INDUSTRY_DEEP_DRILLER_INTEGRATION.md`** | **🆕 双技能联动协议** | **v5.0 新增** |
 | **`10_SELF_EVOLVING_BRAINS.md`** | **🆕 六大脑自进化系统** | **v5.0 新增** |
@@ -507,6 +544,138 @@ v7.0: 纵向下钻 + CITA横向跨界 + 散户真空
 ---
 
 ## 🌐💰 GIVG 2D矩阵 (v7.3 核心升级)
+
+## 🔄 v7.7 GIVG 2D+Time — 生命周期矩阵（主人关键洞察）
+
+> **"卡脖子 ≠ 值得现在买。** 味之素ABF是好东西，但三年前就是公开知识——大家都关注到了，
+> 利好尽出反而可能导致股价下跌。" — Jonathan, 2026-07-16
+
+### 为什么 2D还不够 — 需要时间轴
+
+v7.6 GIVG 2D给了**当前**的IG和VG快照, 但缺少**随时间变化的轨迹**:
+
+```
+2019 Ajinomoto: IG=0.90 VG=0.85 → 🏆 Premium Alpha → BUY!
+2026 Ajinomoto: IG=0.15 VG=0.18 → 🗑️ Consensus   → 利好出尽=利空
+
+同一个公司, 同一个卡脖子故事。只是生命阶段不同。
+```
+
+### 🟢→🟡→🔴 三阶段生命周期 + 🔄再发现闭环
+
+```
+🟢 发现期                  🟡 共识期                   🔴 耗竭期               📋 Watchlist → 🔄再发现
+═══════════════════    ════════════════════     ════════════════════     ══════════════════════
+IG≥0.7 + VG≥0.7          IG 0.3-0.7 + VG 0.3-0.7     IG≤0.3 + VG≤0.3         IG≥0.5 + VG≥0.6 回升
+• 没人听说过              • 机构开始覆盖              • 每篇研报都提              • 市场又忘记了
+• 估值极低                • 估值回归均值              • 估值充分反映利好           • 股价回调到低估
+• ⭐最佳买入窗口            • 持有/观察/等回调          • ☠️利好出尽=利空            • 🔄黄金再进入点
+• 重仓长持                • 逐步减持                  • 清仓→Watchlist           • 重新建仓
+• Ajinomoto(2019-2022)   • Ajinomoto(2023-2025)    • Ajinomoto(当前?)        • 等PE跌回+市场遗忘
+
+                                                                         ↑
+┌────────────────────────────────────────────────────────────────────────┘
+│  这个循环可以无限重复——Serenity传奇就建立在"找→买→卖→忘→再发现→再买"上
+└─────────────────────────────────────────────────────────────────────────
+```
+
+### 📋 Watchlist 观察列表机制
+
+🔴耗竭期 ≠ 永远放弃。转入Watchlist, 每周复盘时检查:
+
+| 字段 | 说明 | 例(Ajinomoto 2802.T) |
+|------|------|----------------------|
+| 进入日期 | 转入Watchlist的日期 | 2026-07-16 |
+| 进入时 IG/VG | 转入时的真空评分 | IG=0.15 / VG=0.18 |
+| 当前 IG | 每周更新 | 实时扫描 |
+| 当前 VG | 每周更新 | 实时扫描 |
+| 回归条件 | 满足条件→🔄RE-ENTRY | IG≥0.5 + VG≥0.6 |
+| IG回归观测 | 什么信号表示市场开始遗忘 | 华尔街覆盖减少/研报停止提及ABF/雪球讨论降温 |
+| VG回归观测 | 什么信号表示估值回到低估区 | PE跌回5年50%分位以下/分析师下调目标价/机构减持完毕 |
+| 新催化剂 | 有哪些新变量可触发再发现 | 3nm→2nm封装升级/新客户导入/并购/季报超预期 |
+
+### 🔴 利好出尽信号判定（永久嵌入·每次评估强制执行）
+
+任一标的满足 ≥3条 → ⚠️ 自动触发降级审查:
+
+```
+⚠️ 信号1: 股价过去12个月翻倍 但 IG<20 → 利好已price in
+⚠️ 信号2: 所有主流财经媒体都报道过该公司的卡脖子地位 → 信息真空=0
+⚠️ 信号3: 券商一致性推荐"买入"≥80% → 反向指标（无分歧=无Alpha）
+⚠️ 信号4: PE处于5年最高1/3分位 → 估值真空为负（已贵）
+⚠️ 信号5: 最近一季度换手率↓ + 机构持股↓ → 聪明钱在退出
+⚠️ 信号6: 管理层在最近一次业绩会中，卡脖子业务提及频率下降 → 叙事耗竭
+```
+
+触发后行动链:
+```
+Step 1: 降级 — HOLD→REDUCE 或 REDUCE→STRONG SELL
+Step 2: 写入Watchlist — 含进入日期+当前IG/VG+回归条件
+Step 3: 替代扫描 — 沿产业链BOM下钻→CITA跨界→找替代标的
+Step 4: 替代标的COMPASS评估 → 如果通过QG阈值 → 提案替换
+```
+
+### 🆕 执行工作流 Step 2B — 生命周期判定（嵌入原Step2后）
+
+```
+Step 2B: 🔄 GIVG 生命周期判定（每次评估必须执行）
+    ├─ 自问清单5题（每标必答）:
+    │   Q1: 这个标的的"卡脖子"故事，是三年前就知道的吗？→ YES=IG可能已耗竭
+    │   Q2: 最近6个月有几家机构覆盖它？→ >5家=已进入共识期
+    │   Q3: 当前PE vs 历史中位数？→ >中位数=VG低/负
+    │   Q4: 最近业绩会卡脖子业务提及比例是否下降？→ 利好边际效应递减
+    │   Q5: 有无新的/还没被覆盖的替代标的？→ CITA跨界扫描
+    ├─ 利好出尽信号扫描（6条信号 满足≥3→⚠️降级审查）
+    ├─ 标注生命周期: 🟢发现期 / 🟡共识期 / 🔴耗竭期
+    └─ 🔴耗竭期 → 写入Watchlist + 触发替代扫描
+```
+
+---
+
+## 🧭 COMPASS v7.7 — 四柱21维（新增 DIS6 生命周期阶段）
+
+### DISCOVERY 柱升级（5维→6维）
+
+```
+🔍 DISCOVERY — 藏多深? (6维×0.27, v7.7权重上调)
+
+DIS1 — IG 信息真空度 (三层扫描: CIVG×0.35 + EIVG×0.35 + PIVG×0.30)
+DIS2 — VG 估值真空度 (7维度: PE历史/EV折价/价格讨论背离/量能/空头/机构/目标价)
+DIS3 — CG 共识差 (分析师分歧大=高分 / 一致看多=低分 / 无覆盖=极值)
+DIS4 — NG 叙事差 (媒体报道的叙事 vs 真实业务)
+DIS5 — ES 情绪极端度 (恐惧/贪婪指数中的分歧)
+DIS6 — 🆕 LC 生命周期阶段
+       🟢发现期 = 1.0 | 🟡共识期 = 0.5 | 🔴耗竭期 = 0.1 | 📋Watchlist = N/A(仅监控)
+```
+
+**短板决定论 — 生命周期自动压舱**:
+```
+如果 DIS6=0.1(耗竭期) → DIS柱整体 capped at 0.3
+即使其他5维全满分, DIS柱也不能超过0.3 → COMPASS无法达到BUY门槛
+→ 这就是"卡脖子≠值得买"的算法实现。
+```
+
+### COMPASS修订公式 (v7.7)
+
+```
+COMPASS = FOUNDATION×0.28 + POSITION×0.25 + DISCOVERY×0.27 + TIMING×0.20
+```
+
+---
+
+## 📊 七态输出体系（原五档→v7.7七态扩展）
+
+| 状态 | 标签 | 含义 | 触发条件 |
+|------|------|------|---------|
+| 🟢 STRONG BUY | **强烈买入** | 重仓长持 | COMPASS≥0.8 + DIS6=🟢 + 象限1 |
+| 🟢 BUY | **买入** | 仓位建立 | COMPASS≥0.65 + DIS6∈🟢/🟡 |
+| 🟡 HOLD | **持有/中性** | 维持现有仓位 | COMPASS 0.4-0.65 或 DIS6=🟡 |
+| 🟠 REDUCE | **谨慎减持** | 逐步减仓 | DIS6=🔴 且 IG+VG已持续下降 |
+| 🔴 STRONG SELL | **强烈卖出** | 清仓 | COMPASS<0.3 + 利好出尽信号≥3 |
+| 📋 WATCHLIST | **观察列表** | 不持有, 监控回归条件 | 曾为🟢象限1但现已进入🔴耗竭期 |
+| 🔄 RE-ENTRY | **再进入** | 从Watchlist重新激活 | IG≥0.5 + VG≥0.6 + 新催化剂 |
+
+---
 
 ### 为什么 1D 信息真空不够
 
@@ -802,7 +971,7 @@ Step 5: 12人投资委员会投票
     → 💰 辩论: VG估值真空何时收缩?价格-讨论背离是否在收窄?
     ↓
 Step 6: PortfolioManager 终审
-    → 五档分级推荐 + 🔴长期(3-5年) + 🟠催化(6-18月) + 🧂跨界(5-10年) + 💰估值真空加权
+    → 七态分级推荐 + 🔴长期(3-5年) + 🟠催化(6-18月) + 🧂跨界(5-10年) + 📋Watchlist(监控) + 🔄RE-ENTRY(再发现) + 💰估值真空加权
 ```
 
 ### 双引擎对比总结
@@ -848,8 +1017,12 @@ Step 6: PortfolioManager 终审
 | **v7.1** | **2026-06-20** | **🌐 全球三维信息真空GIVG + 🟠CIVG中文散户 + 🔵EIVG英文散户 + 🔴PIVG华尔街专业 + 14平台三维扫描 + 三层真空权重0.35(信息真空优先级最高)** |
 | **v7.2** | **2026-06-21** | **🔥🧊 泛化第一性原理 + 双地形狩猎框架 + 五模式调用(新增热门深度/冷门广度) + CITA跨行业物理需求矩阵泛化(芯片/EV/航天/制药全覆盖) + 全行业通用Alpha发现系统** |
 | **v7.3** | **2026-06-21** | **💰 GIVG 2D矩阵 — 信息真空(IG) × 估值真空(VG) + 四象限甄别(🏆Premium Alpha/⚠️Hidden Bubble/📉Value Trap/🗑️Consensus) + 价格-讨论双向因果防护 + VG七维度打分(PE历史/EV折价/背离度/量能/空头/机构/目标价) + 执行工作流Step6升级** |
+| **v7.4** | **2026-06-21** | 🧭 COMPASS四柱20维 + Segment Discovery Layer(业务分拆) + 卡脖子经济学(TAM决定Alpha上限) + 短板决定论 |
+| **v7.5** | **2026-06-21** | 🛡️ QG盈利/诚信过滤 + 双地形优化(热门深度+冷门广度) |
+| **v7.6** | **2026-06-21** | 📐 COMPASS四柱完善 + 全球七地市场 + 六大脑自进化 + 防幻觉验证(完整版) |
+| **v7.7 🔄** | **2026-07-16** | **GIVG 2D+Time生命周期矩阵 + 🟢→🟡→🔴三阶段演变 + 📋Watchlist观察列表 + 🔄耗竭再发现闭环 + COMPASS四柱21维(DIS6生命周期维度) + 五档→七态输出体系 + 六大脑估值脑/风险脑生命周期诊断 + 利好出尽信号6条判定 + 替代标的自动扫描** |
 
 ---
 
-_最后更新: 2026-06-21 (v7.3 GIVG 2D矩阵版)_
+_最后更新: 2026-07-16 (v7.7 GIVG生命周期+Watchlist+🔄耗竭再发现闭环版)_
 _作者: 沐沐 🖤 for 乔纳森大人_

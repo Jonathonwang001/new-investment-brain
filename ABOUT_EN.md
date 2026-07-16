@@ -1,43 +1,61 @@
-# About new-investment-brain v7.3
+# About new-investment-brain v7.7
 
 ## What is it?
 
-new-investment-brain v7.3 is an **industry-agnostic universal Alpha discovery system**. Core upgrade: **GIVG 2D Matrix — Information Gap × Valuation Gap**.
+new-investment-brain v7.7 is an **industry-agnostic universal Alpha discovery system**. v7.7 core upgrade: **GIVG 2D+Time — Information Gap × Valuation Gap × Lifecycle Stage**.
 
-Three engines × 2D screening × dual terrain:
+**"Bottleneck ≠ Buy Now."** Same company, same story — 2019 IG=0.9 (nobody knew) → 2026 IG=0.15 (everybody knows). v7.7 formally integrates this dynamic evolution into the framework.
+
+Three engines × 2D+Time screening × dual terrain:
 - 🔵 **Vertical Drill**: Any product→BOM→find "in chain but GICS misclassified"
 - 🧭 **CITA Lateral**: Core capability→cross-industry physical demand→find "can break into any industry"
-- 🌐💰 **GIVG 2D Matrix** 🆕: Information Gap (who's discussing) + Valuation Gap (is price reflecting it) = 4-quadrant screening
+- 🌐💰 **GIVG 2D+Time** 🆕: Information Gap × Valuation Gap × Lifecycle Stage
 
-## v7.3 Breakthrough: GIVG 2D Matrix — IG × VG
+## v7.7 Breakthrough: GIVG Lifecycle + Watchlist + 🔄 Re-Discovery Loop
 
-### Why 2D?
+### Why Add a Time Axis?
 
-v7.2's GIVG only asked "who's discussing?" — but forum silence ≠ undiscovered gem (could be too expensive to discuss), forum buzz ≠ saturation (could be getting discovered). **Bidirectional causality**: price↑→discussion↑, discussion↑→price↑.
-
-### GIVG 2D Formula
+v7.3's GIVG 2D is a snapshot: IG=0.9=good, IG=0.1=bad.
+But the **journey from 0.9 to 0.1 is 10x more important** than the snapshot itself —
+it tells you: the market is discovering the bottleneck story, positive news is being priced in, alpha is being consumed.
 
 ```
-GIVG_2D = IG × 0.60 + VG × 0.40
-
-IG (Information Gap) = CIVG×0.35 + EIVG×0.35 + PIVG×0.30
-VG (Valuation Gap)   = PE_percentile×0.20 + EV_sector×0.15 + price_discussion_divergence×0.20
-                      + volume_anomaly×0.15 + short_interest×0.10 + inst_trend×0.10 + analyst_upside×0.10
+🟢Discovery → 🟡Consensus → 🔴Exhaustion → 📋Watchlist → 🔄Re-Discovery
 ```
 
-### VG (Valuation Gap) Seven Dimensions
+### 📋 Watchlist
 
-| Dimension | Measures | Weight |
-|-----------|----------|--------|
-| PE Historical Percentile | Current PE vs 5yr range | 0.20 |
-| EV/EBITDA Sector Discount | vs peer median | 0.15 |
-| Price-Discussion Divergence 🆕 | Are price and buzz moving the same direction? | 0.20 |
-| Volume Anomaly | Recent volume vs historical avg | 0.15 |
-| Short Interest (Reverse) | Short float % | 0.10 |
-| Institutional Accumulation | 13F QoQ change | 0.10 |
-| Analyst Target Upside | Consensus target ÷ current price | 0.10 |
+🔴Exhaustion ≠ permanent abandonment.
+Ajinomoto rose 9x ($2,000→$18,000) → good news exhausted → not worth buying NOW.
+But if the market crashes, analysts stop covering, retail stops discussing → **IG surges again** → 🔄golden buy point.
 
-### GIVG 2D Four-Quadrant Screening
+The Watchlist IS this "wait" mechanism — not giving up, but **waiting for the market to forget again**.
+
+### 🔴 6 Good-News-Exhaustion Signals
+
+Any Chokepoint pick hitting ≥3 signals → auto downgrade review:
+1. Price doubled in 12mo + IG<0.2
+2. All major media covered the bottleneck status
+3. Consensus "Buy" ≥80% (contrarian indicator)
+4. PE in top 1/3 of 5Y range
+5. Volume↓ + Institutional holdings↓ (smart money exiting)
+6. Bottleneck mentions declining in earnings calls
+
+### COMPASS v7.7 — 4-Pillar/21-Dim
+
+New DIS6 "Lifecycle Stage" dimension:
+```
+🟢Discovery=1.0  |  🟡Consensus=0.5  |  🔴Exhaustion=0.1  |  📋Watchlist=N/A
+```
+
+Weakest-dim rule: Exhaustion → DIS pillar capped at 0.3 → algorithmically prevents BUY.
+
+### Seven-State Output System
+
+5 tiers → 7 states:
+🟢STRONG BUY / 🟢BUY / 🟡HOLD / 🟠REDUCE / 🔴STRONG SELL / 📋WATCHLIST / 🔄RE-ENTRY
+
+### GIVG 2D Four-Quadrant Screening (v7.3, preserved)
 
 ```
                   VG (Valuation Gap)
@@ -51,7 +69,9 @@ VG (Valuation Gap)   = PE_percentile×0.20 + EV_sector×0.15 + price_discussion_
       └──────────────────────┴──────────────────────┘
 ```
 
-### 🔥🧊 Dual-Terrain (v7.2, preserved)
+v7.7 addition: every stock in any quadrant MUST be labeled with lifecycle stage (🟢/🟡/🔴) + IG/VG trend. Quadrants are NOT static — falling from 🏆 to 🗑️ IS the lifecycle evolving.
+
+### 🔥🧊 Dual-Terrain (v7.6, preserved)
 
 | Terrain | Strategy | Goal |
 |---------|----------|------|
@@ -66,26 +86,29 @@ VG (Valuation Gap)   = PE_percentile×0.20 + EV_sector×0.15 + price_discussion_
 | 🔵 EIVG | English Retail | Reddit/Twitter/StockTwits/YouTube/SA/Google | IG×0.35 |
 | 🔴 PIVG | Wall Street | Bloomberg/Reuters/FT+WSJ/Analysts/13F | IG×0.30 |
 
-### Five Call Modes
+### Six Call Modes
 
 | Mode | Use Case |
 |------|----------|
-| 🌐 Global | Full 3-engine + GIVG 2D screening |
+| 🌐 Global | Full 3-engine + GIVG lifecycle assessment |
 | 🔥 Hot Depth | BOM drill to T-4 (hot sector) |
 | 🧊 Cold Breadth | 14-platform GIVG scan (cold sector) |
-| 📊 Standard | Six Brains + 12 Committee |
+| 🔄 Watchlist Re-Discovery | Scan Watchlist for regression signals (v7.7 new) |
+| 📊 Standard | Six Brains (🆕with lifecycle diagnostics) + 12 Committee |
 | ⚡ Lightweight | 3 core agents |
 
 ---
 
 ## Risk Disclaimer
 
-- CITA targets have lowest information availability, long certification cycles (5-10 years)
+- CITA targets have the lowest information availability, long certification cycles (5-10 years)
 - Japan/Korea market liquidity risk; FX risk (JPY/KRW)
 - GICS reclassification is a long-term catalyst with no short-term timeline
 - GIVG vacuum + VG undervaluation requires patience for information diffusion
+- **🆕 Lifecycle risk**: consensus-stage stocks may have good news priced in; exhaustion-stage picks face positive-news-exhaustion risk
+- **🆕 Watchlist re-entry risk**: IG/VG regression signals may be false; always wait for both IG and VG to confirm simultaneously
 - ⚠️ Past performance does not guarantee future results
 
 ---
 
-_Last updated: 2026-06-21 (v7.3 GIVG 2D Matrix)_
+_Last updated: 2026-07-17 (v7.7 GIVG Lifecycle + Watchlist + 🔄Re-Discovery Loop Edition)_

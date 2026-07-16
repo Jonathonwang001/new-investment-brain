@@ -1,13 +1,17 @@
-# 12_V7_CROSS_SCORING.md — 三维交叉评分协议 (v7.2)
+# 12_V7_CROSS_SCORING.md — 三维交叉评分协议 (v7.7)
 
 > **目标**: 将三个独立引擎的发现结果进行交叉验证，输出最终Alpha排名
+> **v7.7 升级**: 新增生命周期阶段维度(DIS6) + Watchlist回归评分
 
-## 三维评分公式
+## 三维评分公式 (v7.7)
 
 ```
-v7.2 Alpha = CBSS_纵向 × 0.35 + CATS_CITA × 0.40 + CIVG_散户 × 0.25
+v7.7 Alpha = CBSS_纵向 × 0.28 + CATS_CITA × 0.32 + GIVG_2D+Time × 0.40
 
 其中:
+  GIVG_2D+Time = (IG × 0.5 + VG × 0.3 + DIS6_Lifecycle × 0.2)
+  
+  DIS6_Lifecycle = 🟢发现期:1.0 | 🟡共识期:0.55 | 🔴耗竭期:0.15 | 📋Watchlist:N/A(仅追踪)
 - CBSS_纵向 = WSCG×0.5 + CIVG×0.3 + (1-卖方%)×0.1 + (1-机构%)×0.1  (来自v6.1)
 - CATS_CITA = 工艺相似度×0.4 + 纯度/精度等级×0.3 + 客户认证周期×0.2 + 转型催化剂×0.1  (来自CITA)
 - CIVG_散户 = 中文信息真空度 (来自v6.1 散户向量化)
